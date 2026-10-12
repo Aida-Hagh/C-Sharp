@@ -16,7 +16,7 @@ This repository contains my C# learning notes and programming concepts, organize
 
 Explore my C# notes, examples, and learning progress in the Issues section.
 
-👉 [**View All C# Issues**](PASTE_YOUR_CSHARP_ISSUES_LINK_HERE)
+👉 [**View All C# Issues**](https://github.com/Aida-Hagh/C-Sharp/issues)
 
 ## 🎯 Goal
 
